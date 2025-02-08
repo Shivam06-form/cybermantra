@@ -1,0 +1,36 @@
+{
+  "Data1": [
+    {
+      "id": 1,
+      "name": "Our Expertise",
+      "summery": "Thorough evaluations to identify and mitigate security risks",
+      "image": "exp1.png"
+    },
+    {
+      "id": 2,
+      "name": "Why Choose CyberMantra?",
+      "summery": "We utilize the latest tools and methodologies to ensure maximum protection",
+      "image": "f1.png"
+    }
+  ],
+  "Data2": [
+    {
+      "id": 1,
+      "name": "Key Areas We Cover",
+      "summery": "Continuous evaluation and monitoring of cross-platform endpoints",
+      "image": "key1.png"
+    },
+    {
+      "id": 2,
+      "name": "Why Choose Us for Cybersecurity Audits?",
+      "summery": " Conducted by experienced cybersecurity professionals",
+      "image": "patner1.png"
+    },
+    {
+      "id": 3,
+      "name": "Our Audit Process",
+      "summery": "Identify discrepancies between your existing setup and best practices",
+      "image": "audit1.png"
+    }
+  ]
+}

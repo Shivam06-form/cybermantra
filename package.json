@@ -1,0 +1,15 @@
+{
+  "name": "cybermantra",
+  "version": "1.0.0",
+  "description": "About Cyber Security",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Shivam",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
